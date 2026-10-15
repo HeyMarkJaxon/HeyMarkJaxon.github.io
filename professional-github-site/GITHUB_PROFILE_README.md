@@ -37,6 +37,6 @@ Long term, I want to build deep expertise in identity security and develop an in
 
 ## Connect
 
-- Portfolio: `https://YOUR_DOMAIN.com`
-- LinkedIn: `https://www.linkedin.com/in/YOUR_LINKEDIN`
-- Email: `YOUR_EMAIL@example.com`
+- Portfolio: `https://markjaxon.com`
+- LinkedIn: `https://www.linkedin.com/in/jacksonmarkl`
+- Email: `Jackson.MarkLavonne@gmail.com`
